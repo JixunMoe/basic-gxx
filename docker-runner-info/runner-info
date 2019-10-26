@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo docker-runner - ${DRONE_MACHINE}/${DRONE_RUNNER_PLATFORM} - $(date)
